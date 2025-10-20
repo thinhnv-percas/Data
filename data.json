@@ -1,0 +1,24 @@
+{
+  "siteTitle": "My JSON-driven Site",
+  "updated": "2025-10-20T00:00:00Z",
+  "items": [
+    {
+      "id": 1,
+      "title": "Item One",
+      "description": "Mô tả item một",
+      "link": "https://example.com/1"
+    },
+    {
+      "id": 2,
+      "title": "Item Two",
+      "description": "Mô tả item hai",
+      "link": "https://example.com/2"
+    },
+    {
+      "id": 3,
+      "title": "Item Three",
+      "description": "Mô tả item ba",
+      "link": "https://example.com/3"
+    }
+  ]
+}
